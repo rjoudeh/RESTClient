@@ -4,7 +4,7 @@
 	<groupId>RESTClient</groupId>
 	<artifactId>RESTClient</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<build>
 		<sourceDirectory>src</sourceDirectory>
 		<plugins>
